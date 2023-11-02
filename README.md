@@ -13,6 +13,6 @@ The objective for our effort  is to analyse the data with the use of MySQL and P
 
 An important aspect of our analysis that is worth being mentioned is that during our analysis, we used 5 different datasets: the global distribution of threatened species, the distribution of threatened species in Europe by major group by country,  the distribution of threatened species in South & South East Asia by major group by country, the threatened animal species in Europe and the ones in South East Asia. 
 
-Link to our presentations with the insights: https://www.canva.com/design/DAFy6ffXjwI/K1XJ_EqXlZ0Vxmut7mhnWw/edit 
+Link to our presentations with the insights: https://docs.google.com/presentation/d/16FTTqfNVv1CJibEkFY6N5DPy-jcTSOJtEdkkgSOI2ew/edit?usp=sharing
 
 Thanks! 
