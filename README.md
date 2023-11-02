@@ -1,9 +1,9 @@
 Creators: Agata Płucienik & Ivet Petkova 
 
 
-Hi reader! In this project called ‘You’ve Been Warned’, analysed data retrieved from the IUCN Red List of Threatened Species. 
+Hi reader! Welcome to ‘You’ve Been Warned!’. Our project has as it's main goal to analyze data retrieved from the IUCN Red List of Threatened Species and retreive insites based on clearly defined hypothesis. 
 
-The objective of this preliminary analysis is to getter a better understanding on the most threatened groups of species on our planet in terms of numbers based on the available data and by choosing two geographic areas of interest to us, Europe and South & South Eastern Asia, to find out which of the two areas has more threatened species, as well as in which country we could potential draft a conservation plan. 
+The objective of this preliminary analysis is to get a better understanding on the most threatened groups of species on our planet in terms of numbers based on the available data and by choosing two geographic areas of interest to us, Europe and South & South Eastern Asia, to find out which of the two areas has more threatened species, as well as in which country we could potential draft a conservation plan. 
 
 The data that was used for out analysis is publicly accessible on this link https://www.iucnredlist.org/statistics in the form of CSV. 
 
